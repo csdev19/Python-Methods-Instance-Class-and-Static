@@ -1,15 +1,15 @@
-# Python's Instance, Class and Static Methods Desmitificados
+# Python's Instance, Class and Static Methods Desmitificadohttps://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#key-takeawayss
 
 ## Tabla de contenidos
 
-- [Instance, Class and Static Methods - Una revision general]()
-    - [Instance Methods]()
-    - [Class Methods]()
-    - [Static Methods]()
-- [Vamos a verlos en accion]()
-- [Fabricas de deliciosa Pizza con @classmethod]()
-- [Cuando usar Static Methods]()
-- [Puntos Claves]()
+- [Instance, Class and Static Methods - Una revision general](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#intance-class-and-static-methods---una-revision-general)
+    - [Instance Methods](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#intance-methods-metodos-de-instancia)
+    - [Class Methods](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#class-methods-metodos-de-clase)
+    - [Static Methods](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#static-methods-metodos-estaticos)
+- [Vamos a verlos en accion](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#vamos-a-verlos-en-accion)
+- [Fabricas de deliciosa Pizza con @classmethod](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#delicius-pizza-factories-with-classmethod)
+- [Cuando usar Static Methods](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#cuando-usar-static-methods)
+- [Puntos Claves](https://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#key-takeaways)
 
 
 En este tutorial vamos intentar desmitificar que pasa detras de [class methods (metodos de clase)](https://docs.python.org/3/library/functions.html#classmethod), [static methods (metodos estaticos)](https://docs.python.org/3/library/functions.html#staticmethod), y los metodos de instanciacion regular.
