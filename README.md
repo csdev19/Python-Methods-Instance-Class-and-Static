@@ -274,4 +274,4 @@ Nosotros no tenemos que preocuparnos acerca de configurar una instancia de clase
 
 ## Referencia
 
-- Este repo esta basado en la pagina REAL PYTHON [instance class and static methods](https://realpython.com/instance-class-and-static-methods-demystified/)
+- Este repo esta basado en la pagina REAL PYTHON [instance class and static methods](https://realpython.com/instance-class-and-static-methods-demystified/) mas bien es una traduccion. por el bien de la comunidad XD.
