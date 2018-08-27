@@ -1,4 +1,4 @@
-# Python's Instance, Class and Static Methods Desmitificadohttps://github.com/pystudent1913/Python-Methods-Intance-Class-and-Static#key-takeawayss
+# Python's Instance, Class and Static Methods Desmitificados
 
 ## Tabla de contenidos
 
